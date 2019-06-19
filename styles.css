@@ -1,0 +1,26 @@
+
+img {
+	cursor: pointer;
+	margin: 15px;		
+}
+
+
+#main-block{
+	display: inline-block;
+	background-color: rgb(144,181,210);
+	background-size: 100px;	
+	height: 470px;
+	width: 470px;	
+	border: 5px solid green;
+	border-radius: 15px;
+}
+
+
+
+#select-1,#select-2,#restart, p {
+	display: inline-block;
+	text-align: center;	
+	margin-left: 15px;
+	color: green;
+	font-size: 32px;	
+}
